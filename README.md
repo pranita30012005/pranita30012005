@@ -1,8 +1,8 @@
 # Hi 👋, I'm T G Pranita Yadav
 
-🎓 3rd Year Data Science Student
+🎓 4th Year Data Science Student
 
-💻 Data Analytics and Machine Learning Enthusiast
+💻 Data Analytics and AI & Machine Learning Enthusiast
 
 📊 Data Analytics | Data Science 
 
